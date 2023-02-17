@@ -167,8 +167,8 @@
     ],
     "downstreamList": [
         {
-            "asn": "ZX Education And Research Network",
-            "name": "139317",
+            "name": "ZX Education And Research Network",
+            "asn": "139317",
             "location": "Seattle",
             "region": "US",
             "v4": false,
@@ -176,8 +176,8 @@
             "website": "https://net.zxinc.org/"
         },
         {
-            "asn": "TOHU Public Internet",
-            "name": "140731",
+            "name": "TOHU Public Internet",
+            "asn": "140731",
             "location": "Seattle",
             "region": "US",
             "v4": false,
@@ -185,8 +185,8 @@
             "website": "https://peering.tohunet.com/"
         },
         {
-            "asn": "186526 Network",
-            "name": "200536",
+            "name": "186526 Network",
+            "asn": "200536",
             "location": "Seattle",
             "region": "US",
             "v4": false,
