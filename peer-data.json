@@ -199,7 +199,7 @@
             "name": "MoeIX CSX",
             "location": "Changsha",
             "region": "CN",
-            "v4": "-",
+            "v4": "",
             "v6": "2a0e:b107:5c3:a:0:a13:8211:1",
             "speed": "1Gbps",
             "website": "https://moeix.top/"
@@ -208,7 +208,7 @@
             "name": "MoeIX CGO",
             "location": "Zhengzhou",
             "region": "CN",
-            "v4": "-",
+            "v4": "",
             "v6": "2a07:59c1:30ff:8641::2",
             "speed": "1Gbps",
             "website": "https://moeix.top/"
@@ -217,7 +217,7 @@
             "name": "MoeIX SEA",
             "location": "Seattle",
             "region": "US",
-            "v4": "-",
+            "v4": "",
             "v6": "2a07:59c1:30ff:a:13:8211:0:1",
             "speed": "1Gbps",
             "website": "https://moeix.top/"
@@ -226,7 +226,7 @@
             "name": "Nephren-IX",
             "location": "Shijiazhuang",
             "region": "CN",
-            "v4": "-",
+            "v4": "",
             "v6": "2a12:3fc2:aa12:cafe::102",
             "speed": "1Gbps",
             "website": "https://ixp.icu"
@@ -235,7 +235,7 @@
             "name": "Tanuki-IX",
             "location": "Wuhan",
             "region": "CN",
-            "v4": "-",
+            "v4": "",
             "v6": "2404:f4c0:f94e:1e1:0:13:8211:1",
             "speed": "1Gbps",
             "website": ""
@@ -244,7 +244,7 @@
             "name": "NTEREN-IX",
             "location": "Xi'an",
             "region": "CN",
-            "v4": "-",
+            "v4": "",
             "v6": "fe80::13:8211:1",
             "speed": "1Gbps",
             "website": ""
@@ -253,7 +253,7 @@
             "name": "HJM-IX",
             "location": "Zhongshan",
             "region": "CN",
-            "v4": "-",
+            "v4": "",
             "v6": "fd00::1382:11",
             "speed": "1Gbps",
             "website": ""
@@ -262,7 +262,7 @@
             "name": "TOHU IX",
             "location": "Guangzhou",
             "region": "CN",
-            "v4": "-",
+            "v4": "",
             "v6": "2406:840:eb8f:1:0:13:8211:1",
             "speed": "1Gbps",
             "website": "https://peering.tohunet.com/"
@@ -271,7 +271,7 @@
             "name": "Poema IX",
             "location": "Taipei",
             "region": "TW",
-            "v4": "-",
+            "v4": "",
             "v6": "2404:f4c0:f70e:1980::138:211",
             "speed": "1Gbps",
             "website": "https://ix.poema.eu.org/"
@@ -289,7 +289,7 @@
             "name": "GeekIX",
             "location": "Taoyuan",
             "region": "TW",
-            "v4": "-",
+            "v4": "",
             "v6": "2a0e:aa07:e019::2:1be3",
             "speed": "1Gbps",
             "website": "https://ix.geeknetworks.com.au/"
@@ -298,7 +298,7 @@
             "name": "ZXIX Hong Kong",
             "location": "Hong Kong",
             "region": "HK",
-            "v4": "-",
+            "v4": "",
             "v6": "2406:840:1f:1000:0:13:8211:1",
             "speed": "1Gbps",
             "website": ""
@@ -316,7 +316,7 @@
             "name": "Miaowoo Ashburn",
             "location": "Ashburn",
             "region": "US",
-            "v4": "-",
+            "v4": "",
             "v6": "2a0e:b107:1b20::13:8211:1",
             "speed": "10Gbps",
             "website": "https://ix.wjy.me"
