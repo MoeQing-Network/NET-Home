@@ -1,0 +1,356 @@
+{
+    "peerList": [
+        {
+            "asn": "6939",
+            "name": "Hurricane Electric LLC",
+            "location": "Taipei",
+            "region": "TW",
+            "v4": true,
+            "v6": true,
+            "website": "https://he.net/"
+        },
+        {
+            "asn": "6939",
+            "name": "Hurricane Electric LLC",
+            "location": "Fremont",
+            "region": "US",
+            "v4": true,
+            "v6": true,
+            "website": "https://he.net/"
+        },
+        {
+            "asn": "6939",
+            "name": "Hurricane Electric LLC",
+            "location": "Vancouver",
+            "region": "CA",
+            "v4": true,
+            "v6": true,
+            "website": "https://he.net/"
+        }
+    ],
+    "upstreamList": [
+        {
+            "asn": "6939",
+            "name": "Hurricane Electric LLC",
+            "location": "Hong Kong",
+            "region": "HK",
+            "v4": false,
+            "v6": true,
+            "website": "https://he.net/"
+        },
+        {
+            "asn": "140731",
+            "name": "TOHU Public Internet",
+            "location": "Hong Kong",
+            "region": "HK",
+            "v4": false,
+            "v6": true,
+            "website": "https://peering.tohunet.com/"
+        },
+        {
+            "asn": "138997",
+            "name": "Eons Data Communications Limited",
+            "location": "Hong Kong",
+            "region": "HK",
+            "v4": false,
+            "v6": true,
+            "website": "https://eons.cloud/"
+        },
+        {
+            "asn": "6939",
+            "name": "Hurricane Electric LLC",
+            "location": "Taipei",
+            "region": "TW",
+            "v4": false,
+            "v6": true,
+            "website": "https://he.net/"
+        },
+        {
+            "asn": "49304",
+            "name": "SAKURA LINK LIMITED",
+            "location": "Tokyo",
+            "region": "JP",
+            "v4": true,
+            "v6": true,
+            "website": "https://yxvm.com/"
+        },
+        {
+            "asn": "8849",
+            "name": "Melbikomas UAB",
+            "location": "Singapore",
+            "region": "SG",
+            "v4": false,
+            "v6": true,
+            "website": "https://www.melbicom.net/"
+        },
+        {
+            "asn": "36369",
+            "name": "Limewave Communications",
+            "location": "Seattle",
+            "region": "US",
+            "v4": true,
+            "v6": true,
+            "website": "https://limewave.net/"
+        },
+        {
+            "asn": "206628",
+            "name": "EricNet",
+            "location": "Fremont",
+            "region": "US",
+            "v4": false,
+            "v6": true,
+            "website": "https://as206628.net/"
+        },
+        {
+            "asn": "6939",
+            "name": "Hurricane Electric LLC",
+            "location": "Fremont",
+            "region": "US",
+            "v4": false,
+            "v6": true,
+            "website": "https://he.net/"
+        },
+        {
+            "asn": "202888",
+            "name": "ZH NETWORK LIMITED",
+            "location": "Los Angeles",
+            "region": "US",
+            "v4": false,
+            "v6": true,
+            "website": "https://www.zhnet.co.uk/"
+        },
+        {
+            "asn": "8849",
+            "name": "Melbikomas UAB",
+            "location": "Los Angeles",
+            "region": "US",
+            "v4": false,
+            "v6": true,
+            "website": "https://www.melbicom.net/"
+        },
+        {
+            "asn": "6939",
+            "name": "Hurricane Electric LLC",
+            "location": "Vancouver",
+            "region": "CA",
+            "v4": false,
+            "v6": true,
+            "website": "https://he.net/"
+        },
+        {
+            "asn": "53356",
+            "name": "Free Range Cloud Hosting Inc.",
+            "location": "Vancouver",
+            "region": "CA",
+            "v4": true,
+            "v6": true,
+            "website": "https://freerangecloud.com/"
+        },
+        {
+            "asn": "134478",
+            "name": "JSMSR",
+            "location": "Frankfurt",
+            "region": "DE",
+            "v4": false,
+            "v6": true,
+            "website": "https://www.jsmsr.com/"
+        },
+        {
+            "asn": "34465",
+            "name": "NCRYPTD NET LTD",
+            "location": "Amsterdam",
+            "region": "NL",
+            "v4": true,
+            "v6": true,
+            "website": "https://www.ncryptd.net/"
+        }
+    ],
+    "downstreamList": [
+        {
+            "asn": "ZX Education And Research Network",
+            "name": "139317",
+            "location": "Seattle",
+            "region": "US",
+            "v4": false,
+            "v6": true,
+            "website": "https://net.zxinc.org/"
+        },
+        {
+            "asn": "TOHU Public Internet",
+            "name": "140731",
+            "location": "Seattle",
+            "region": "US",
+            "v4": false,
+            "v6": true,
+            "website": "https://peering.tohunet.com/"
+        },
+        {
+            "asn": "186526 Network",
+            "name": "200536",
+            "location": "Seattle",
+            "region": "US",
+            "v4": false,
+            "v6": true,
+            "website": "https://186526.net/"
+        }
+    ],
+    "IXList": [
+        {
+            "name": "MoeIX CSX",
+            "location": "Changsha",
+            "region": "CN",
+            "v4": "-",
+            "v6": "2a0e:b107:5c3:a:0:a13:8211:1",
+            "speed": "1Gbps",
+            "website": "https://moeix.top/"
+        },
+        {
+            "name": "MoeIX CGO",
+            "location": "Zhengzhou",
+            "region": "CN",
+            "v4": "-",
+            "v6": "2a07:59c1:30ff:8641::2",
+            "speed": "1Gbps",
+            "website": "https://moeix.top/"
+        },
+        {
+            "name": "MoeIX SEA",
+            "location": "Seattle",
+            "region": "US",
+            "v4": "-",
+            "v6": "2a07:59c1:30ff:a:13:8211:0:1",
+            "speed": "1Gbps",
+            "website": "https://moeix.top/"
+        },
+        {
+            "name": "Nephren-IX",
+            "location": "Shijiazhuang",
+            "region": "CN",
+            "v4": "-",
+            "v6": "2a12:3fc2:aa12:cafe::102",
+            "speed": "1Gbps",
+            "website": "https://ixp.icu"
+        },
+        {
+            "name": "Tanuki-IX",
+            "location": "Wuhan",
+            "region": "CN",
+            "v4": "-",
+            "v6": "2404:f4c0:f94e:1e1:0:13:8211:1",
+            "speed": "1Gbps",
+            "website": ""
+        },
+        {
+            "name": "NTEREN-IX",
+            "location": "Xi'an",
+            "region": "CN",
+            "v4": "-",
+            "v6": "fe80::13:8211:1",
+            "speed": "1Gbps",
+            "website": ""
+        },
+        {
+            "name": "HJM-IX",
+            "location": "Zhongshan",
+            "region": "CN",
+            "v4": "-",
+            "v6": "fd00::1382:11",
+            "speed": "1Gbps",
+            "website": ""
+        },
+        {
+            "name": "TOHU IX",
+            "location": "Guangzhou",
+            "region": "CN",
+            "v4": "-",
+            "v6": "2406:840:eb8f:1:0:13:8211:1",
+            "speed": "1Gbps",
+            "website": "https://peering.tohunet.com/"
+        },
+        {
+            "name": "Poema IX",
+            "location": "Taipei",
+            "region": "TW",
+            "v4": "-",
+            "v6": "2404:f4c0:f70e:1980::138:211",
+            "speed": "1Gbps",
+            "website": "https://ix.poema.eu.org/"
+        },
+        {
+            "name": "STUIX",
+            "location": "Taipei",
+            "region": "TW",
+            "v4": "103.158.187.83",
+            "v6": "2a0f:5707:ffe3::83",
+            "speed": "1Gbps",
+            "website": "https://stuix.io/"
+        },
+        {
+            "name": "GeekIX",
+            "location": "Taoyuan",
+            "region": "TW",
+            "v4": "-",
+            "v6": "2a0e:aa07:e019::2:1be3",
+            "speed": "1Gbps",
+            "website": "https://ix.geeknetworks.com.au/"
+        },
+        {
+            "name": "ZXIX Hong Kong",
+            "location": "Hong Kong",
+            "region": "HK",
+            "v4": "-",
+            "v6": "2406:840:1f:1000:0:13:8211:1",
+            "speed": "1Gbps",
+            "website": ""
+        },
+        {
+            "name": "Lambda-IX",
+            "location": "Fremont",
+            "region": "US",
+            "v4": "149.112.26.33",
+            "v6": "2a0f:607:1070::33",
+            "speed": "1Gbps",
+            "website": "https://lambda-ix.net/"
+        },
+        {
+            "name": "Miaowoo Ashburn",
+            "location": "Ashburn",
+            "region": "US",
+            "v4": "-",
+            "v6": "2a0e:b107:1b20::13:8211:1",
+            "speed": "10Gbps",
+            "website": "https://ix.wjy.me"
+        },
+        {
+            "name": "UNM-Exch Canada-West",
+            "location": "Vancouver",
+            "region": "CA",
+            "v4": "192.34.27.38",
+            "v6": "2602:ffb1:200:0:192:34:27:38",
+            "speed": "1Gbps",
+            "website": "https://unmetered.exchange/"
+        },
+        {
+            "name": "INTERIX",
+            "location": "Amsterdam",
+            "region": "NL",
+            "v4": "185.0.1.53",
+            "v6": "2001:7f8:134::53",
+            "speed": "1Gbps",
+            "website": "https://www.inter-ix.net/en"
+        }
+
+    ],
+    "specialThank": [
+        {
+            "name": "AS138517 KSKB",
+            "reason": "Technical support",
+            "website": "https://poema.net.eu.org/"
+        },
+        {
+            "name": "Leo",
+            "reason": "Technical support",
+            "website": "https://leo.moe/"
+        }
+    ]
+}
